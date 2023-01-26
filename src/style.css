@@ -88,3 +88,22 @@
   .banner__btn i {
     margin-right: 0.5rem;
   }
+
+  .menu__principal {
+    height: 66px;
+    background-color: black;
+    border: solid 2px red;
+    display: flex;
+  }
+
+  .logo__nav {
+    border: solid 2px blue;
+  }
+
+  .nav {
+    border: solid 2px green;
+    display: flex;
+  }
+  .login {
+    border: solid 2px yellow;
+  }
