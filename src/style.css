@@ -172,6 +172,11 @@ section {
   transition: 250ms all;
 }
 
+.-animation:hover {
+  margin: 0 40px;
+  transform: scale(1.2);
+}
+
 .item img {
   max-width: 100%;
   padding-right: 5px;
