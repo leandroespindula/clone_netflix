@@ -1,5 +1,9 @@
 ## Projeto - Clone pagina da Netflix  
 
+<p align="center">
+    <img width= 800 src="src/images/screen-capture.gif"
+</p>  
+
 ## Deploy
     
 https://meek-blancmange-9d5c6b.netlify.app/
